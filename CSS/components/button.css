@@ -1,0 +1,13 @@
+.btn-blue{
+  background-color: #50A7F7;
+  display: flex;
+  justify-content: center;
+  padding: 15px 20px;
+  border-radius: 4px;
+  margin-top: 5%;
+  margin-right: 40%;
+  margin-left: 40%;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
